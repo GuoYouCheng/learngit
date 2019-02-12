@@ -5,3 +5,4 @@ secend update.
 push test.
 new barch test.
 Creating a new branch is quick AND simple.
+fast forward
